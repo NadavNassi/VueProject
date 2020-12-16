@@ -19,5 +19,17 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^7.0.0-0"
-  }
+  },
+  "description": "��#\u0000 \u0000V\u0000u\u0000e\u0000P\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadavNassi/VueProject.git"
+  },
+  "author": "TripleN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NadavNassi/VueProject/issues"
+  },
+  "homepage": "https://github.com/NadavNassi/VueProject#readme"
 }
