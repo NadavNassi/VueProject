@@ -28,6 +28,6 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: 2;
 }
 </style>
